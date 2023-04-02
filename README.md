@@ -1,4 +1,6 @@
+<p align="center">
 ![SnapSave io-Aesthetic Keyboard Typing⌨️ _ Anime(720p)](https://user-images.githubusercontent.com/70854339/229357437-f272e79f-998e-47f8-969e-a88b17415c6d.gif)
+</p>
 
 <h1 align="center">Hi 👋, I'm Clement Lee Tim Fu</h1>
 <h3 align="center">A passionate software developer from Malaysia</h3>
