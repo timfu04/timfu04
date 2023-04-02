@@ -1,4 +1,4 @@
-[![MasterHead](https://4kwallpapers.com/images/walls/thumbs_3t/5947.png)]
+<!-- [![MasterHead](https://4kwallpapers.com/images/walls/thumbs_3t/5947.png)] -->
 <h1 align="center">Hi 👋, I'm Clement Lee Tim Fu</h1>
 <h3 align="center">A passionate software developer from Malaysia</h3>
 
