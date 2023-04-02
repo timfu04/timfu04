@@ -6,6 +6,12 @@
 <h1 align="center">Hello World! 👋, I'm Clement Lee Tim Fu</h1>
 <h3 align="center">A passionate software developer from Malaysia</h3>
 
+<div align="center" style="width:50px">
+
+asdasdad
+![Coding Animated Laptop Flow Stream](https://user-images.githubusercontent.com/70854339/229358621-c6c571e8-0c3b-43d7-8d5c-eac5eeb76863.gif)
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/clement-lee-tim-fu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clement-lee-tim-fu" height="30" width="40" /></a>
